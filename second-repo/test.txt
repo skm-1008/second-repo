@@ -1,1 +1,2 @@
-test .txt file
+This is a test file created in the lenovo laptop
+This is to learn git
